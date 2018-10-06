@@ -1,2 +1,2 @@
 # HatRock
-Code for the capstone yo
+The central repository for the Capstone project
